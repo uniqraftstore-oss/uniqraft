@@ -67,7 +67,7 @@ const createProduct = ({ name, category, image: productImage, brand = 'UniQraft 
 // Price columns mirror the supplied sheet: Flipkart, Amazon, Meesho and JioMart.
 // Rows with a missing UniQraft price use an editable 84%-of-MRP fallback.
 const catalog = [
-  { name: 'Mini Air Humidifier', category: 'Home', image: '', prices: { Flipkart: 258, Amazon: 189, Meesho: 249, JioMart: 369 }, uniqraftPrice: 299, featured: true, bestSeller: true },
+  { name: 'Mini Air Humidifier', category: 'Home', image: '/product/Air humidifier.png', prices: { Flipkart: 258, Amazon: 189, Meesho: 249, JioMart: 369 }, uniqraftPrice: 299, featured: true, bestSeller: true },
   { name: 'Kids Camera Toy', category: 'Kids', image: '', prices: { Flipkart: 405, Amazon: 500, Meesho: 536, JioMart: 899 }, newArrival: true },
   { name: 'Scarlett Super Hand Mixer', category: 'Kitchen', image: '', brand: 'Scarlett', prices: { Flipkart: 498, Amazon: '434-553', Meesho: 534, JioMart: 498 }, uniqraftPrice: 459, featured: true },
   { name: 'Automatic Electric Fruit & Vegetable Peeler', category: 'Kitchen', image: '',prices: { Flipkart: 739, Amazon: 999, Meesho: 805, JioMart: null }, uniqraftPrice: 789, newArrival: true },
