@@ -69,7 +69,7 @@ const createProduct = ({ name, category, image: productImage, brand = 'UniQraft 
 const catalog = [
   { name: 'Mini Air Humidifier', category: 'Home', image: '/product/Air humidifier.png', prices: { Flipkart: 258, Amazon: 189, Meesho: 249, JioMart: 369 }, uniqraftPrice: 299, featured: true, bestSeller: true },
   { name: 'Kids Camera Toy', category: 'Kids', image: '/product/kids camera.png', prices: { Flipkart: 405, Amazon: 500, Meesho: 536, JioMart: 899 }, newArrival: true },
-  { name: 'Scarlett Super Hand Mixer', category: 'Kitchen', image: '/product/Scarlett 7-Speed Electric Hand Mixer.png', brand: 'Scarlett', prices: { Flipkart: 498, Amazon: '434-553', Meesho: 534, JioMart: 498 }, uniqraftPrice: 459, featured: true },
+  { name: 'Scarlett Super Hand Mixer', category: 'Kitchen', image: '/product/Electric Hand Mixer.png', brand: 'Scarlett', prices: { Flipkart: 498, Amazon: '434-553', Meesho: 534, JioMart: 498 }, uniqraftPrice: 459, featured: true },
   { name: 'Automatic Electric Fruit & Vegetable Peeler', category: 'Kitchen', image: '/product/Vegetable peeler.png',prices: { Flipkart: 739, Amazon: 999, Meesho: 805, JioMart: null }, uniqraftPrice: 789, newArrival: true },
   { name: 'Educational Talking Flash Card Reader', category: 'Kids', image: '/product/Card Reader.png', prices: { Flipkart: 364, Amazon: 498, Meesho: 342, JioMart: 299 }, uniqraftPrice: 349, bestSeller: true },
   { name: 'Portable Mini Camping Stove', category: 'Travel', image: '/product/Portable campaign cylinder.png', prices: { Flipkart: 179, Amazon: 399, Meesho: 250, JioMart: null }, uniqraftPrice: 450 },
