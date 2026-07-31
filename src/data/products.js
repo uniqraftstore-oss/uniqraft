@@ -131,7 +131,7 @@ const catalog = [
   { name: 'All-Weather Raincoat', category: 'Fashion', image: '/product/Raincoat.png', prices: { Flipkart: 179, Amazon: 249, Meesho: 170, JioMart: 249 } },
   { name: 'Skeleton Wall Clock', category: 'Home Decor', image: '/product/Skeleton Wall Clock.png', prices: { Flipkart: 2800, Amazon: 4500, Meesho: 3000, JioMart: 3500 }, newArrival: true },
   { name: 'Women’s Multi-Pocket Shoulder Handbag', category: 'Fashion', image: '/product/Women Multi-Pocket Shoulder Handbag.png', prices: { Flipkart: 299, Amazon: 349, Meesho: 250, JioMart: 299 } },
-  { name: 'Solar-Powered Meditating Monk Dashboard Décor', category: 'Gifts', image: '/product/Solar-Powered Meditating Monk Dashboard Décor.png', prices: { Flipkart: 220, Amazon: 240, Meesho: 160, JioMart: 220 } },
+  { name: 'Solar-Powered Meditating Monk Dashboard Décor', category: 'Gifts', image: '/product/Solar-Powered Meditating Monk Dashnoard Décor.png', prices: { Flipkart: 220, Amazon: 240, Meesho: 160, JioMart: 220 } },
   { name: 'Premium Windproof Umbrella', category: 'Travel', image: '/product/Umbrella.png', prices: { Flipkart: 1500, Amazon: 1800, Meesho: 350, JioMart: 600 } },
   { name: 'Hand-Shaped 4D Bionic Electric Massager', category: 'Health', image: '/product/Hand-Shaped 4D Bionic Electric Massager.png', prices: { Flipkart: 1600, Amazon: 2396, Meesho: 1505, JioMart: 1750 }, featured: true },
   { name: 'Lighthouse Moon Projector Lamp', category: 'Home Decor', image: '/product/Lighthouse Moon Projector Lamp.png', prices: { Flipkart: 1350, Amazon: 1299, Meesho: 999, JioMart: 1300 }, newArrival: true },
