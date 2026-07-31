@@ -124,7 +124,7 @@ const catalog = [
   { name: 'Digital Camera for Kids and Teens', category: 'Kids', image: '/product/kids camera.png', prices: { Flipkart: 2500, Amazon: 2800, Meesho: 1200, JioMart: 2400 }, uniqraftPrice: 442, badge: 'Limited stock' },
   { name: 'Football-Shaped Smart Portable Projector', category: 'Smart Gadgets', image: '/product/Football Shaped Smart Portable Projector.png', prices: { Flipkart: 5759, Amazon: 3950, Meesho: 3800, JioMart: null }, newArrival: true },
   { name: 'Kids Instant Print Camera', category: 'Kids', image: '/product/kids camera.png', prices: { Flipkart: 1000, Amazon: 1200, Meesho: 1221, JioMart: 1199 }, newArrival: true },
-  { name: 'Interactive Study Book for Kids', category: 'Kids', image: '/product/Study Book for Kids.png', prices: { Flipkart: 350, Amazon: 399, Meesho: 260, JioMart: 250 } },
+  { name: 'Interactive Study Book for Kids', category: 'Kids', image: '/product/Study Book For Kids.png', prices: { Flipkart: 350, Amazon: 399, Meesho: 260, JioMart: 250 } },
   { name: 'Bluetooth Smart Audio Glasses', category: 'Smart Gadgets', image: '/product/Bluetooth Smart Audio Glasses.png', prices: { Flipkart: 680, Amazon: 749, Meesho: 599, JioMart: 699 }, newArrival: true },
   { name: 'All-Weather Raincoat', category: 'Fashion', image: '/product/Raincoat.png', prices: { Flipkart: 179, Amazon: 249, Meesho: 170, JioMart: 249 } },
   { name: 'Skeleton Wall Clock', category: 'Home Decor', image: '/product/Skeleton Wall Clock.png', prices: { Flipkart: 2800, Amazon: 4500, Meesho: 3000, JioMart: 3500 }, newArrival: true },
