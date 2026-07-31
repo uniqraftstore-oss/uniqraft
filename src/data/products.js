@@ -74,7 +74,7 @@ const catalog = [
   { name: 'Educational Talking Flash Card Reader', category: 'Kids', image: '/product/Card Reader.png', prices: { Flipkart: 364, Amazon: 498, Meesho: 342, JioMart: 299 }, uniqraftPrice: 349, bestSeller: true },
   { name: 'Portable Mini Camping Stove', category: 'Travel', image: '/product/Portable campaign cylinder.png', prices: { Flipkart: 179, Amazon: 399, Meesho: 250, JioMart: null }, uniqraftPrice: 450 },
   { name: 'Turbo Jet Fan', category: 'Smart Gadgets', image: '/product/Turbo jet fan.png', prices: { Flipkart: 1000, Amazon: '989-7999', Meesho: 891, JioMart: '399-600' }, uniqraftPrice: 850, featured: true, badge: 'Flash deal' },
-  { name: '3-Axis Smartphone Gimbal Stabilizer', category: 'Smart Gadgets', image: '/GIMBLE.png', prices: { Flipkart: 3900, Amazon: 6499, Meesho: 2999, JioMart: 2999 }, uniqraftPrice: 3589, bestSeller: true },
+  { name: '3-Axis Smartphone Gimbal Stabilizer', category: 'Smart Gadgets', image: '/product/GIMBLE.png', prices: { Flipkart: 3900, Amazon: 6499, Meesho: 2999, JioMart: 2999 }, uniqraftPrice: 3589, bestSeller: true },
   { name: 'Cruise Ship Fluid Drift Bottle', category: 'Home Decor', image: '/product/Unsinkable cruise ship.png', prices: { Flipkart: 250, Amazon: 299, Meesho: 140, JioMart: 250 }, uniqraftPrice: 359 },
   { name: 'Anti-Lost Wrist Link for Child Safety', category: 'Kids', image: '/product/Anti-loss child safety lock.png', prices: { Flipkart: 450, Amazon: 400, Meesho: 230, JioMart: 300 }, uniqraftPrice: 359 },
   { name: 'Rechargeable Silicone Unicorn LED Night Lamp', category: 'Kids', image: '/product/Rechargable silicon LED light.png', prices: { Flipkart: 300, Amazon: '450-600', Meesho: '170-290', JioMart: '350-550' }, uniqraftPrice: 359, featured: true },
