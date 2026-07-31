@@ -91,7 +91,7 @@ const catalog = [
   { name: 'Crystal Diamond LED Table Lamp', category: 'Home Decor', image: '/product/Wellfort Crystal Diamond LED Table Lamp.png', brand: 'Wellfort', prices: { Flipkart: 319, Amazon: 299, Meesho: 155, JioMart: 249 }, uniqraftPrice: 359 },
   { name: 'Waterproof Leak Repair Tape', category: 'Home', image: '', prices: { Flipkart: 150, Amazon: 125, Meesho: 90, JioMart: 130 }, uniqraftPrice: 189 },
   { name: 'Portable Mesh Nebulizer', category: 'Health', image: '', prices: { Flipkart: 450, Amazon: 899, Meesho: 175, JioMart: 550 }, uniqraftPrice: 350, bestSeller: true },
-  { name: 'Vacuum Insulated Travel Tumbler', category: 'Travel', image: '', prices: { Flipkart: 399, Amazon: 449, Meesho: 486, JioMart: 525 }, uniqraftPrice: 550 },
+  { name: 'Vacuum Insulated Travel Tumbler', category: 'Travel', image: '/product/Tumbler.png', prices: { Flipkart: 399, Amazon: 449, Meesho: 486, JioMart: 525 }, uniqraftPrice: 550 },
   { name: 'Green Mussel Necklace', category: 'Accessories', image: '/product/Green Mussel neckless.png', prices: { Flipkart: 400, Amazon: 450, Meesho: null, JioMart: 450 }, uniqraftPrice: 350 },
   { name: 'Alarm Padlock', category: 'Travel', image: '/product/Alarm Padlock.png', prices: { Flipkart: 268, Amazon: 299, Meesho: 259, JioMart: 275 }, uniqraftPrice: 350 },
   { name: 'Triple Screen Wi-Fi Outdoor PTZ Camera', category: 'Smart Gadgets', image: '/product/Triple Screen Wi-Fi Outdoor PTZ Security Camera.png', prices: { Flipkart: 2550, Amazon: 2800, Meesho: 1900, JioMart: 2999 }, uniqraftPrice: 4500 },
