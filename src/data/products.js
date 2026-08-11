@@ -100,7 +100,7 @@ const catalog = [
   { name: 'Ball Bluetooth Speaker', category: 'Electronics', image: '/product/Ball Bluetooth Speaker.png',  prices: { Flipkart: 299, Amazon: 349, Meesho: 240, JioMart: 299 }, uniqraftPrice: 269 },
   { name: 'Jewelry Organizer', category: 'Accessories', image: '/product/Jewelery Organizer.png', prices: { Flipkart: 250, Amazon: 299, Meesho: 180, JioMart: 249 }, uniqraftPrice: 219 },
   { name: 'Wireless Bluetooth Speaker Lamp', category: 'Electronics', image: '/product/Blutooth speaker.png', prices: { Flipkart: 650, Amazon: 799, Meesho: 499, JioMart: null }, uniqraftPrice: 689, featured: true },
-  { name: 'Night Light Star Projector Lamp', category: 'Home Decor', image: '/product/Night Light Star Lamp.png', prices: { Flipkart: 653, Amazon: 670, Meesho: 559, JioMart: 765 }, newArrival: true },
+  { name: 'Night Light Star Projector Lamp', category: 'Home Decor', image: '/product/Night Light Star Lamp.png', gallery: [ '/product/smart-mini-projector-1.png', '/product/smart-mini-projector-2.png', ], prices: { Flipkart: 653, Amazon: 670, Meesho: 559, JioMart: 765 }, newArrival: true },
   { name: 'Dancing Jellyfish Toy', category: 'Kids', image: '/product/Dancing Jelly Fish Toy.png', prices: { Flipkart: 612, Amazon: 665, Meesho: 566, JioMart: 799 }, uniqraftPrice: 499, bestSeller: true },
   { name: 'Magnetic Screwdriver Set', category: 'Home', image: '/product/Magnetic screwdriver set.png', prices: { Flipkart: 135, Amazon: 149, Meesho: 143, JioMart: 149 }, uniqraftPrice: 220 },
   { name: 'Mini Body-Worn Camera', category: 'Electronics', image: '/product/Mini Body Worn Camera.png', prices: { Flipkart: 1845, Amazon: 1699, Meesho: 1200, JioMart: null }, uniqraftPrice: 2452 },
