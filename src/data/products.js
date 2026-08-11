@@ -136,7 +136,7 @@ const catalog = [
   { name: 'Flying Orb Ball Toy', category: 'Kids', image: '/product/Flying Orb Ball Toy.png', prices: { Flipkart: 390, Amazon: 450, Meesho: 430, JioMart: 550 }, uniqraftPrice: 389, bestSeller: true },
   { name: 'OnePlus Nord Watch', category: 'Smart Gadgets', image: '/product/one Plus Nord Watch.png', brand: 'OnePlus', prices: { Flipkart: 4999, Amazon: 4999, Meesho: null, JioMart: null }, uniqraftPrice: 1499, badge: 'Best price', bestSeller: true },
   { name: 'M15 Retro Game Console', category: 'Electronics', image: '/product/M15 Retro Game.png', prices: { Flipkart: 7990, Amazon: 6149, Meesho: null, JioMart: 7490 }, uniqraftPrice: 1600, badge: 'Mega deal', featured: true },
-  { name: 'Adjustable Laptop Stand', category: 'Office', image: '/product/Laptop Stand.png', gallery: ['/product/Laptop Stand.png','/product/laptop stand 1.png', '[product/Laptop stand 2.png'],  prices: { Flipkart: 250, Amazon: 299, Meesho: 210, JioMart: 350 }, uniqraftPrice: 310, bestSeller: true },
+  { name: 'Adjustable Laptop Stand', category: 'Office', image: '/product/Laptop Stand.png', gallery: ['/product/laptop stand 1.png', '[product/Laptop stand 2.png'],  prices: { Flipkart: 250, Amazon: 299, Meesho: 210, JioMart: 350 }, uniqraftPrice: 310, bestSeller: true },
 ]
 
 export const products = catalog.map(createProduct)
