@@ -28,7 +28,7 @@ const highestNumber = (value) => {
   return Math.max(0, ...values)
 }
 
-const createProduct = ({ name, category, image: productImage, brand = 'UniQraft Select', prices, uniqraftPrice, ...flags }) => {
+const createProduct = ({ name, category, image: productImage, brand = 'UniQraft Select', prices, uniqraftPrice, gallery = [], ...flags }) => {
   const originalPrice = Math.max(...Object.values(prices).map(highestNumber))
   const fallbackPrice = Math.max(99, Math.round((originalPrice * 0.84) / 10) * 10 - 1)
   const price = uniqraftPrice || fallbackPrice
@@ -56,7 +56,7 @@ const createProduct = ({ name, category, image: productImage, brand = 'UniQraft 
     reviews: flags.reviews || 18 + ((name.length * 13) % 240),
     badge: flags.badge || (discount >= 30 ? 'Great value' : flags.newArrival ? 'Just in' : 'Curated pick'),
     image,
-    gallery: [image, ...galleryImages],
+    gallery: [image, ...gallery],
     stock: flags.stock || 7 + ((name.length * 7) % 34),
     featured: Boolean(flags.featured),
     bestSeller: Boolean(flags.bestSeller),
